@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840195547013",
+    "project_id": "bamboo-diode-384619",
+    "storage_bucket": "bamboo-diode-384619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840195547013:android:95e1008db6991cac09eeec",
+        "android_client_info": {
+          "package_name": "com.example.tela_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840195547013-1knn5hc58ckulfiotiljlq8li30los7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB570zHAYX4uWPO8IjS7K0VaBpSh-IVOBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840195547013-1knn5hc58ckulfiotiljlq8li30los7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
